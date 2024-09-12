@@ -1,1 +1,1 @@
-# yo_yo
+https://nodezidane.github.io/yo_yo/
